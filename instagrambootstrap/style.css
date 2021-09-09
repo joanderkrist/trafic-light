@@ -1,0 +1,91 @@
+.body {
+    background: rgb(228, 228, 228);
+}
+
+.col-6 {
+    margin-left: 143px;
+    margin-top: 4px;
+    margin-right: 85px;
+}
+
+.ventanas {
+    justify-content: center;
+}
+
+.pictures{
+    padding: 20px;
+}
+
+.todo {
+    width: auto;
+    text-align: center;
+}
+
+.casi-todo {
+    margin-top: 70px;
+}
+.inicio {
+    background-color: rgb(247, 10, 10);
+    display: flex;
+}
+
+.boton {
+    height: 40px;
+    margin-left: 850px;
+    margin-top: 8px;
+}
+
+.post {
+    width: 450px;
+    height: 495px;
+    background: white;
+    margin-left: 535px;
+    
+}
+
+.post-header {
+    padding: 14px;
+    padding-bottom: 0px !important;
+    display: flex;
+}
+
+.separacion {
+    margin-right: 265px;
+    padding-left: 5px;
+    margin-bottom: 5px;
+}
+
+.puntitos {
+    font-size: 26px;
+    padding-top: 5px;
+}
+
+.shooter-start {
+    display: flex;
+    font-size: xx-large;
+    margin-left: 7px;
+    margin-right: 7px;
+}
+
+.shooter-end{
+    text-align: justify;
+    margin: 10px;
+}
+
+.separacion-two {
+    margin-right: 214px;
+    padding-left: 5px;
+    margin-bottom: 5px;
+}
+
+.separacion-three {
+    margin-right: 214px;
+    padding-left: 5px;
+    margin-bottom: 5px;
+}
+
+.separacion-four {
+    margin-right: 270px;
+    padding-left: 5px;
+    margin-bottom: 5px;
+}
