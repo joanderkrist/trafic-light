@@ -8,8 +8,22 @@
 
 .container {
     background-color: blanchedalmond;
+    /* margin: 800px 700px; */
+    border: 1px solid black;
+    width: 800px;
+    height: 600px;
+    
+}
+
+.contenedor {
+    background-color: white;
     margin: 800px 700px;
     border: 1px solid black;
     width: 800px;
     height: 600px;
+
+}
+
+#cabeza {
+    display: flex;
 }
